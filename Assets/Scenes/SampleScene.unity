@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 30935888}
   - component: {fileID: 30935887}
   - component: {fileID: 30935886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: To see the experience, don't move mouse or press any key for 5 seconds.
+  m_text: To see the experience, don't move your mouse or press any key for 5 seconds.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -399,7 +399,7 @@ GameObject:
   - component: {fileID: 143620109}
   - component: {fileID: 143620108}
   - component: {fileID: 143620107}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -510,7 +510,7 @@ GameObject:
   - component: {fileID: 157187825}
   - component: {fileID: 157187824}
   - component: {fileID: 157187826}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Post-Processed_Cam_Starboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -546,7 +546,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -702,7 +702,7 @@ GameObject:
   m_Component:
   - component: {fileID: 229346763}
   - component: {fileID: 229346762}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shake_Cam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -738,7 +738,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1082,7 +1082,7 @@ GameObject:
   - component: {fileID: 566623229}
   - component: {fileID: 566623228}
   - component: {fileID: 566623227}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1177,7 +1177,7 @@ GameObject:
   - component: {fileID: 593345530}
   - component: {fileID: 593345529}
   - component: {fileID: 593345528}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1277,7 +1277,7 @@ GameObject:
   - component: {fileID: 668772277}
   - component: {fileID: 668772276}
   - component: {fileID: 668772275}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2148,7 +2148,7 @@ GameObject:
   - component: {fileID: 953608695}
   - component: {fileID: 953608694}
   - component: {fileID: 953608693}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2311,7 +2311,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 3.7526329, y: 0.17799999, z: -0.001091687}
+  m_LocalPosition: {x: 3.7562509, y: 0.17799999, z: -0.0010920404}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2557,7 +2557,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1122326344}
   - component: {fileID: 1122326343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CinematicScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3158,7 +3158,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1265278889}
   - component: {fileID: 1265278888}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Starboard_Pan-End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3194,7 +3194,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3348,7 +3348,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1291055626}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.70710677}
-  m_LocalPosition: {x: 3.9206345, y: 0.17799999, z: -0.0000061911137}
+  m_LocalPosition: {x: 3.9242525, y: 0.17799999, z: -0.0000065443614}
   m_LocalScale: {x: 0.53154, y: 0.53154, z: 0.53154}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3384,7 +3384,7 @@ GameObject:
   - component: {fileID: 1294571949}
   - component: {fileID: 1294571948}
   - component: {fileID: 1294571950}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Post_Processing_Cam_Port
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3420,7 +3420,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3474,7 +3474,7 @@ GameObject:
   - component: {fileID: 1317161483}
   - component: {fileID: 1317161482}
   - component: {fileID: 1317161481}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3875,7 +3875,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1582121899}
   - component: {fileID: 1582121898}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Passby_Cam_Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3911,7 +3911,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3946,7 +3946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598369924}
   - component: {fileID: 1598369923}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Passby_Cam_Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3982,7 +3982,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -4205,7 +4205,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1765998311}
   - component: {fileID: 1765998310}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Starboard_Pan-Start
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4241,7 +4241,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7775701, y: 1}
+    m_SensorSize: {x: 1.7777778, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
